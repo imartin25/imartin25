@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @imartin25
-- 👀 I’m interested in web3.
-- 🌱 I’m currently learning solidity and javascript. 
 - 📫 How to reach me https://t.me/IMartin_A250.
 
 <!---
