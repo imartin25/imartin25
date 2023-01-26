@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ianmartinandres@gmail.com**
 
-- ⚡ Fun fact **JavaScript was created in just 10 days.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imartin_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imartin_dev" height="30" width="40" /></a>
