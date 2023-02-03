@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Solidity and web3 development.**
 
-- 👯 I’m looking to collaborate on **open source projects.**
-
 - 📫 How to reach me **ianmartinandres@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
